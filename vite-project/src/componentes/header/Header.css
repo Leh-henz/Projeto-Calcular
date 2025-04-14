@@ -1,0 +1,26 @@
+.cabecalho {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #ffffff;
+  padding: 10px 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+.logo-cabecalho {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-right: 20px;
+}
+
+.subtitulo-cabecalho {
+  margin-left: 80px;
+  font-size: 14px;
+  color: #666;
+}
+
+.barra-data {
+  margin-left: auto;
+  display: flex;
+}
